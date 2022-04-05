@@ -1,0 +1,13 @@
+div#footer {
+    background-color: #14342b;
+    display: block;
+    width: 97.3%;
+    padding: 20px;
+    color: #43af90;
+    font-size: 30px;
+    
+}
+
+p#content {
+    text-align: center;
+} 

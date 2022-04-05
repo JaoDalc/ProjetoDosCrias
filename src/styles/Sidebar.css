@@ -1,0 +1,43 @@
+div#app aside {
+    width: inherit;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 3px 3px;
+
+}
+div#app main {
+    width: inherit;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 3px 3px;
+
+}
+
+
+.initImg {
+    width: 500px;
+    height: 650px;
+} 
+.initImg#mago {
+    margin-right: 30px;
+}
+
+.initImg#arqueiro {
+    margin-left: 80px;
+}
+
+div#app strong {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    color: #0b1b17;
+}
+
+.initImg {
+    margin-top: 30px;
+}
+
+div#app {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

@@ -1,0 +1,45 @@
+img#classe {
+    width: 300px;
+    height: 400px;
+    margin: 4px;
+    margin-right: 4px;
+}
+
+aside {
+    background-color: #5c946e;
+    margin-left: 140px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+main {
+    background-color: #5c946e;
+    margin-left: 140px;
+    margin-top: 20px; 
+    margin-bottom: 50px;
+}
+
+.li {
+    list-style-type: none;
+}
+
+div.body {
+    background-color: #5c946e;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+button {
+    background-color: #14342b;
+    color:#5c946e;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background 0.3s;
+    border: 0;
+}
+
+button:hover {
+    background-color: #070c09;
+}

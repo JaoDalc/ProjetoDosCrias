@@ -1,0 +1,13 @@
+div#header {
+    background-color: #14342b;
+    display: block;
+    width: 92%;
+    padding: 60px;
+    color: #43af90;
+    font-size: 30px;
+    
+}
+
+p#title {
+    text-align: center;
+} 

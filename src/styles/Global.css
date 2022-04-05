@@ -1,0 +1,14 @@
+body {
+    background-color: #5c946e;
+    position: relative;
+    width: 100%;
+}
+
+div.app {
+    border: 1px solid black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+  }
